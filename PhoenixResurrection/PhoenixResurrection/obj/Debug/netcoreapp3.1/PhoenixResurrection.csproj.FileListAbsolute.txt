@@ -1,0 +1,13 @@
+C:\Users\serin\source\repos\PhoenixResurrection\PhoenixResurrection\bin\Debug\netcoreapp3.1\PhoenixResurrection.exe
+C:\Users\serin\source\repos\PhoenixResurrection\PhoenixResurrection\bin\Debug\netcoreapp3.1\PhoenixResurrection.deps.json
+C:\Users\serin\source\repos\PhoenixResurrection\PhoenixResurrection\bin\Debug\netcoreapp3.1\PhoenixResurrection.runtimeconfig.json
+C:\Users\serin\source\repos\PhoenixResurrection\PhoenixResurrection\bin\Debug\netcoreapp3.1\PhoenixResurrection.runtimeconfig.dev.json
+C:\Users\serin\source\repos\PhoenixResurrection\PhoenixResurrection\bin\Debug\netcoreapp3.1\PhoenixResurrection.dll
+C:\Users\serin\source\repos\PhoenixResurrection\PhoenixResurrection\bin\Debug\netcoreapp3.1\PhoenixResurrection.pdb
+C:\Users\serin\source\repos\PhoenixResurrection\PhoenixResurrection\obj\Debug\netcoreapp3.1\PhoenixResurrection.csprojAssemblyReference.cache
+C:\Users\serin\source\repos\PhoenixResurrection\PhoenixResurrection\obj\Debug\netcoreapp3.1\PhoenixResurrection.AssemblyInfoInputs.cache
+C:\Users\serin\source\repos\PhoenixResurrection\PhoenixResurrection\obj\Debug\netcoreapp3.1\PhoenixResurrection.AssemblyInfo.cs
+C:\Users\serin\source\repos\PhoenixResurrection\PhoenixResurrection\obj\Debug\netcoreapp3.1\PhoenixResurrection.csproj.CoreCompileInputs.cache
+C:\Users\serin\source\repos\PhoenixResurrection\PhoenixResurrection\obj\Debug\netcoreapp3.1\PhoenixResurrection.dll
+C:\Users\serin\source\repos\PhoenixResurrection\PhoenixResurrection\obj\Debug\netcoreapp3.1\PhoenixResurrection.pdb
+C:\Users\serin\source\repos\PhoenixResurrection\PhoenixResurrection\obj\Debug\netcoreapp3.1\PhoenixResurrection.genruntimeconfig.cache
