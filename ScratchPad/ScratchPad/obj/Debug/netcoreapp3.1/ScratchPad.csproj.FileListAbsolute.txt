@@ -1,0 +1,13 @@
+C:\Users\serin\source\repos\ScratchPad\ScratchPad\bin\Debug\netcoreapp3.1\ScratchPad.exe
+C:\Users\serin\source\repos\ScratchPad\ScratchPad\bin\Debug\netcoreapp3.1\ScratchPad.deps.json
+C:\Users\serin\source\repos\ScratchPad\ScratchPad\bin\Debug\netcoreapp3.1\ScratchPad.runtimeconfig.json
+C:\Users\serin\source\repos\ScratchPad\ScratchPad\bin\Debug\netcoreapp3.1\ScratchPad.runtimeconfig.dev.json
+C:\Users\serin\source\repos\ScratchPad\ScratchPad\bin\Debug\netcoreapp3.1\ScratchPad.dll
+C:\Users\serin\source\repos\ScratchPad\ScratchPad\bin\Debug\netcoreapp3.1\ScratchPad.pdb
+C:\Users\serin\source\repos\ScratchPad\ScratchPad\obj\Debug\netcoreapp3.1\ScratchPad.AssemblyInfoInputs.cache
+C:\Users\serin\source\repos\ScratchPad\ScratchPad\obj\Debug\netcoreapp3.1\ScratchPad.AssemblyInfo.cs
+C:\Users\serin\source\repos\ScratchPad\ScratchPad\obj\Debug\netcoreapp3.1\ScratchPad.csproj.CoreCompileInputs.cache
+C:\Users\serin\source\repos\ScratchPad\ScratchPad\obj\Debug\netcoreapp3.1\ScratchPad.dll
+C:\Users\serin\source\repos\ScratchPad\ScratchPad\obj\Debug\netcoreapp3.1\ScratchPad.pdb
+C:\Users\serin\source\repos\ScratchPad\ScratchPad\obj\Debug\netcoreapp3.1\ScratchPad.genruntimeconfig.cache
+C:\Users\serin\source\repos\ScratchPad\ScratchPad\obj\Debug\netcoreapp3.1\ScratchPad.csprojAssemblyReference.cache
