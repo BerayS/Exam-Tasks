@@ -22,7 +22,7 @@ namespace PhoenixResurrection {
                 result = Math.Pow(array2Da[i, 0],2) * (array2Da[i, 1] + 2 * array2Da[i, 2]);
                 Console.WriteLine(result);
             }
-
+            // Module 2 Prep Task
     }
     }
 }
