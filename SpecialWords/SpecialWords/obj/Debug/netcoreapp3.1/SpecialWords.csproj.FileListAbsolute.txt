@@ -1,0 +1,13 @@
+C:\Users\serin\source\repos\SpecialWords\SpecialWords\bin\Debug\netcoreapp3.1\SpecialWords.exe
+C:\Users\serin\source\repos\SpecialWords\SpecialWords\bin\Debug\netcoreapp3.1\SpecialWords.deps.json
+C:\Users\serin\source\repos\SpecialWords\SpecialWords\bin\Debug\netcoreapp3.1\SpecialWords.runtimeconfig.json
+C:\Users\serin\source\repos\SpecialWords\SpecialWords\bin\Debug\netcoreapp3.1\SpecialWords.runtimeconfig.dev.json
+C:\Users\serin\source\repos\SpecialWords\SpecialWords\bin\Debug\netcoreapp3.1\SpecialWords.dll
+C:\Users\serin\source\repos\SpecialWords\SpecialWords\bin\Debug\netcoreapp3.1\SpecialWords.pdb
+C:\Users\serin\source\repos\SpecialWords\SpecialWords\obj\Debug\netcoreapp3.1\SpecialWords.csprojAssemblyReference.cache
+C:\Users\serin\source\repos\SpecialWords\SpecialWords\obj\Debug\netcoreapp3.1\SpecialWords.AssemblyInfoInputs.cache
+C:\Users\serin\source\repos\SpecialWords\SpecialWords\obj\Debug\netcoreapp3.1\SpecialWords.AssemblyInfo.cs
+C:\Users\serin\source\repos\SpecialWords\SpecialWords\obj\Debug\netcoreapp3.1\SpecialWords.csproj.CoreCompileInputs.cache
+C:\Users\serin\source\repos\SpecialWords\SpecialWords\obj\Debug\netcoreapp3.1\SpecialWords.dll
+C:\Users\serin\source\repos\SpecialWords\SpecialWords\obj\Debug\netcoreapp3.1\SpecialWords.pdb
+C:\Users\serin\source\repos\SpecialWords\SpecialWords\obj\Debug\netcoreapp3.1\SpecialWords.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\serin\source\repos\EasterEggs\EasterEggs\bin\Debug\netcoreapp3.1\EasterEggs.exe
+C:\Users\serin\source\repos\EasterEggs\EasterEggs\bin\Debug\netcoreapp3.1\EasterEggs.deps.json
+C:\Users\serin\source\repos\EasterEggs\EasterEggs\bin\Debug\netcoreapp3.1\EasterEggs.runtimeconfig.json
+C:\Users\serin\source\repos\EasterEggs\EasterEggs\bin\Debug\netcoreapp3.1\EasterEggs.runtimeconfig.dev.json
+C:\Users\serin\source\repos\EasterEggs\EasterEggs\bin\Debug\netcoreapp3.1\EasterEggs.dll
+C:\Users\serin\source\repos\EasterEggs\EasterEggs\bin\Debug\netcoreapp3.1\EasterEggs.pdb
+C:\Users\serin\source\repos\EasterEggs\EasterEggs\obj\Debug\netcoreapp3.1\EasterEggs.csprojAssemblyReference.cache
+C:\Users\serin\source\repos\EasterEggs\EasterEggs\obj\Debug\netcoreapp3.1\EasterEggs.AssemblyInfoInputs.cache
+C:\Users\serin\source\repos\EasterEggs\EasterEggs\obj\Debug\netcoreapp3.1\EasterEggs.AssemblyInfo.cs
+C:\Users\serin\source\repos\EasterEggs\EasterEggs\obj\Debug\netcoreapp3.1\EasterEggs.csproj.CoreCompileInputs.cache
+C:\Users\serin\source\repos\EasterEggs\EasterEggs\obj\Debug\netcoreapp3.1\EasterEggs.dll
+C:\Users\serin\source\repos\EasterEggs\EasterEggs\obj\Debug\netcoreapp3.1\EasterEggs.pdb
+C:\Users\serin\source\repos\EasterEggs\EasterEggs\obj\Debug\netcoreapp3.1\EasterEggs.genruntimeconfig.cache
